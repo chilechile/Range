@@ -19,7 +19,10 @@
  */
 function range(start, end) {
     // YOUR CODE GOES BELOW HERE // 
- 
+      range(start: 7 end 12):
+      if (start === end ) return [start];
+      if (end === start) return [end]; 
+     
     
     
     
